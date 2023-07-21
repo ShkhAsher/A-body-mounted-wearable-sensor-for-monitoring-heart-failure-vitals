@@ -1,2 +1,2 @@
 # A-body-mounted-wearable-sensor-for-monitoring-heart-failure-vitals
-A body mounted wearable sensor for monitoring heart failure vitals project code
+This repository contains the Arduino code for the project and Gerber files for the printed circuit board (PCB).
