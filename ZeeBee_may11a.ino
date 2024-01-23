@@ -363,7 +363,7 @@ void Registers()
   TransByte(freq_incre_2, freq_increment2);
   TransByte(freq_incre_3, freq_increment3);
 
-  TransByte(settling_time_1, 0x07); //confirm from darryl why we are sending settling time before standby
+  TransByte(settling_time_1, 0x07); 
   TransByte(settling_time_2, 0xFF); //100
 
   TransByte(cont_reg_1, standby);
